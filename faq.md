@@ -202,18 +202,18 @@ We do not write any data to Apple Health or access other health information.
 ## Support and Contact
 
 ### Q: How do I report a bug?
-**A:** Email us at [your-email@example.com] with:
+**A:** Email us at naveedulislam@gotmail.com with:
 - Description of the issue
 - Steps to reproduce the problem
 - Your iOS version
 - Screenshots if applicable
 
 ### Q: How do I request a new feature?
-**A:** We'd love to hear your ideas! Send feature requests to [your-email@example.com].
+**A:** We'd love to hear your ideas! Send feature requests to naveedulislam@gotmail.com.
 
 ### Q: How quickly do you respond to support requests?
 **A:** The developer is committed to responding as quickly as possible and fixing issues promptly. The app was created to help people improve their health, and providing good support is a priority.
 
 ---
 
-**Still have questions?** Contact us at [your-email@example.com] - we're happy to help!
+**Still have questions?** Contact us at naveedulislam@gotmail.com - we're happy to help!
