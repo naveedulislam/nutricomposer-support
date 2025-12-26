@@ -227,7 +227,7 @@ Control NutriComposer hands-free with **9 Siri commands**:
 
 ---
 
-## Nutrients Tracked (40+)
+## Nutrients Tracked (50)
 
 ### General
 - Energy (Calories)
