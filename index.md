@@ -1,6 +1,6 @@
 ---
 layout: home
-title: NutriComposer
+title: Home
 ---
 
 # Compose Your Daily Nutrient Intake

@@ -12,7 +12,6 @@ plugins:
   - jekyll-remote-theme
 
 header_pages:
-  - index.md
   - features.md
   - support.md
   - privacy-policy.md
