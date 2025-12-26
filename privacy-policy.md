@@ -8,7 +8,7 @@ permalink: /privacy-policy/
 
 **Last Updated: December 2025**
 
-## 🔒 Your Privacy is Protected
+## Your Privacy is Protected
 
 > **Important**: NutriComposer's AI Assistant uses Apple Foundation Framework LLM which runs **100% locally on your device**. Your conversations, food data, and health information are NEVER sent to any external servers. Everything stays on your iPhone.
 

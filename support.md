@@ -69,9 +69,10 @@ We are committed to ensuring NutriComposer is accessible to all users. If you ex
 - Use commands like "Hey Siri, check nutrients in NutriComposer"
 
 ### Creating Custom Foods
-- **Method 1:** Tap the **+** button in the Custom tab, manually enter nutrient data
+- **Method 1:** In the Food Search view, go to the "Custom" tab, then tap the "+" button to create a new custom food
 - **Method 2:** Use AI Assistant - say "Create [food name] with [nutrients]"
   - Example: "Create salmon 160g with 166 cal, 26g protein"
+- **Method 3:** Copy any existing food and edit it as custom (Copy to Custom feature)
 
 ### Tracking Water Intake
 - Tap the **water drops icon** on the Dashboard

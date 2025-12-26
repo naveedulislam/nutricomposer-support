@@ -52,10 +52,11 @@ The process is free and takes just a few minutes.
 
 ### Q: Can I add foods that aren't in the database?
 **A:** Yes! Use the Custom Foods feature:
-- Tap the **+** button in the Custom tab
+- In the Food Search view, go to the "Custom" tab, then tap the "+" button to create a new custom food
 - Enter the food name and nutritional information
 - Save it for future use
 - You can also use AI Assistant to create custom foods by voice
+- Copy any existing food and edit it as custom (Copy to Custom feature)
 
 ---
 
