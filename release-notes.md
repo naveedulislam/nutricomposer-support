@@ -56,8 +56,8 @@ Stay updated with the latest improvements, features, and fixes in NutriComposer.
 ---
 
 ## Version 2.0.26 (December 25, 2025)
-### Focus Nutrients Composition View
-- New composition view for Focus Nutrients
+### Focus Nutrients Breakdown View
+- New breakdown view for Focus Nutrients
 - Visual breakdown of nutrient sources
 - Detailed analysis of where nutrients come from
 - Enhanced nutrient tracking insights

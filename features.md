@@ -68,8 +68,8 @@ Comprehensive tracking including:
 
 ---
 
-### Composition of Nutrient Feature
-- Tap any nutrient in All Nutrients or Focus Nutrients view to see "Composition of [Nutrient]"
+### Breakdown of Nutrient Feature
+- Tap any nutrient in All Nutrients or Focus Nutrients view to see "Breakdown of [Nutrient]"
 - Shows which foods contributed to that nutrient's intake
 - Displays each food's contribution amount and percentage of daily target
 - Foods used multiple times are consolidated into a single entry with combined totals
