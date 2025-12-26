@@ -4,8 +4,6 @@ title: Privacy Policy
 permalink: /privacy-policy/
 ---
 
-# Privacy Policy
-
 **Last Updated: December 2025**
 
 ## Your Privacy is Protected

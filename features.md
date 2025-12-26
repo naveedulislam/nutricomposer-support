@@ -4,8 +4,6 @@ title: Features
 permalink: /features/
 ---
 
-# Features
-
 NutriComposer is packed with powerful features to help you track your nutrition comprehensively and conveniently.
 
 <div style="text-align: center; margin: 2rem 0;">
@@ -103,7 +101,7 @@ Comprehensive tracking including:
 
 ---
 
-## AI Assistant (iOS 26+)
+## AI Assistant (iPhone 15 Pro+ / iOS 18.1+)
 
 ### 100% On-Device Privacy
 - Uses **Apple Foundation Framework LLM**

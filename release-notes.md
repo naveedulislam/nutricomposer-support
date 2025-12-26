@@ -4,8 +4,6 @@ title: Release Notes
 permalink: /release-notes/
 ---
 
-# Release Notes
-
 Stay updated with the latest improvements, features, and fixes in NutriComposer.
 
 ---
