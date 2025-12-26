@@ -1,5 +1,7 @@
 title: NutriComposer
 description: A comprehensive nutrition tracking iOS app that helps you compose your daily nutrient intake
+baseurl: "/nutricomposer-support"
+url: "https://naveedulislam.github.io"
 theme: minima
 plugins:
   - jekyll-seo-tag

@@ -8,6 +8,10 @@ permalink: /features/
 
 NutriComposer is packed with powerful features to help you track your nutrition comprehensively and conveniently.
 
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="{{ site.baseurl }}/assets/images/dashboard.png" alt="NutriComposer Dashboard" style="max-width: 300px; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+</div>
+
 ---
 
 ## Core Features
@@ -17,6 +21,10 @@ NutriComposer is packed with powerful features to help you track your nutrition 
 - Select from multiple database sources via dropdown menu
 - Instant search results with detailed nutrient breakdowns
 - Find both generic and branded foods
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="{{ site.baseurl }}/assets/images/add-food.png" alt="Food Search" style="max-width: 300px; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+</div>
 
 ### Barcode Scanner
 - Scan packaged food products using your iPhone camera
@@ -30,7 +38,11 @@ NutriComposer is packed with powerful features to help you track your nutrition 
 - View meal-by-meal nutrient totals
 - Track your intake throughout the day
 
-### Track 40+ Nutrients
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="{{ site.baseurl }}/assets/images/food-details.png" alt="Food Details" style="max-width: 300px; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+</div>
+
+### Track 50 Nutrients
 Comprehensive tracking including:
 - **Macronutrients:** Protein, Carbohydrates, Fat, Fiber
 - **Vitamins:** A, C, D, E, K, B-complex (B1, B2, B3, B5, B6, B12, Folate)
@@ -38,6 +50,10 @@ Comprehensive tracking including:
 - **Lipids:** Saturated Fat, Cholesterol, Omega-3, Omega-6
 - **Amino Acids:** All essential amino acids
 - **Other:** Energy (calories), Water
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="{{ site.baseurl }}/assets/images/all-nutrients.png" alt="All Nutrients View" style="max-width: 300px; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+</div>
 
 ### Focus Nutrients
 - Highlight key nutrients on your dashboard
@@ -66,6 +82,10 @@ Comprehensive tracking including:
 - Save and reuse custom foods
 - Build a personalized food library
 
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="{{ site.baseurl }}/assets/images/create-food.png" alt="Create Custom Food" style="max-width: 300px; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+</div>
+
 ---
 
 ### Breakdown of Nutrient Feature
@@ -76,6 +96,10 @@ Comprehensive tracking including:
 - Progress bar shows RDA and Upper Limit (for vitamins/minerals with defined ULs)
 - Color coding: orange (below RDA), green (met RDA), red (exceeding upper limit)
 - AMDR indicators for macros (protein, carbs, fat): shows acceptable calorie distribution range
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="{{ site.baseurl }}/assets/images/breakdown.png" alt="Nutrient Breakdown" style="max-width: 300px; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+</div>
 
 ---
 
@@ -92,6 +116,11 @@ Comprehensive tracking including:
 - Ask questions, get suggestions, log foods
 - **Voice mode:** Speak naturally to interact
 - Context-aware responses
+
+<div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin: 2rem 0;">
+  <img src="{{ site.baseurl }}/assets/images/ai-assistant-chat.png" alt="AI Chat" style="max-width: 280px; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+  <img src="{{ site.baseurl }}/assets/images/ai-assistant-voice-chat.png" alt="AI Voice Chat" style="max-width: 280px; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+</div>
 
 ### Context-Aware Intelligence
 The AI knows:
@@ -128,6 +157,10 @@ Control NutriComposer hands-free with **9 Siri commands**:
 9. **"What should I eat NutriComposer"** - Get meal recommendations
 
 *Add shortcuts in Settings to enable Siri commands*
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="{{ site.baseurl }}/assets/images/settings-main.png" alt="Settings" style="max-width: 300px; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+</div>
 
 ---
 
