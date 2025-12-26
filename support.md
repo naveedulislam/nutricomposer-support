@@ -126,7 +126,7 @@ We are committed to ensuring NutriComposer is accessible to all users. If you ex
 
 ## Feature Requests and Feedback
 
-Have ideas for new features or improvements? We'd love to hear from you! Send your suggestions to [your-email@example.com].
+Have ideas for new features or improvements? We'd love to hear from you! Send your suggestions to naveedulislam@hotmail.com.
 
 ---
 
