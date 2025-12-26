@@ -10,7 +10,7 @@ permalink: /support/
 
 If you're experiencing issues or have questions about NutriComposer, we're here to help!
 
-**Contact Email:** [your-email@example.com]
+**Contact Email:** naveedulislam@hotmail.com
 
 ---
 
