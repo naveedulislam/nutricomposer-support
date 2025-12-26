@@ -1,0 +1,13 @@
+title: NutriComposer
+description: A comprehensive nutrition tracking iOS app that helps you compose your daily nutrient intake
+theme: minima
+plugins:
+  - jekyll-seo-tag
+
+header_pages:
+  - index.md
+  - features.md
+  - support.md
+  - privacy-policy.md
+  - faq.md
+  - release-notes.md
