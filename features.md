@@ -101,7 +101,7 @@ Comprehensive tracking including:
 
 ---
 
-## AI Assistant (iPhone 15 Pro+ / iOS 18.1+)
+## AI Assistant (iPhone 15 Pro+ / iOS 26+)
 
 ### 100% On-Device Privacy
 - Uses **Apple Foundation Framework LLM**

@@ -13,7 +13,7 @@ permalink: /faq/
 **A:** No. NutriComposer does not require any account creation or login. All your data stays locally on your device, ensuring maximum privacy and simplicity.
 
 ### Q: Which devices support NutriComposer?
-**A:** NutriComposer is available for iPhone running iOS 16 or later. The AI Assistant feature requires iPhone 15 Pro or later with iOS 18.1+ and Apple Intelligence enabled.
+**A:** NutriComposer is available for iPhone running iOS 16 or later. The AI Assistant feature requires iPhone 15 Pro or later with iOS 26+ and Apple Intelligence enabled.
 
 ### Q: How do I get started?
 **A:** Simply download the app from the App Store, open it, and start searching for foods or scanning barcodes. You can begin logging your meals immediately without any setup.
@@ -63,10 +63,9 @@ The process is free and takes just a few minutes.
 
 ### Q: Why isn't the AI Assistant working?
 **A:** The AI Assistant requires:
-- **iOS 18.1 or later**
-- **iPhone 15 Pro, iPhone 15 Pro Max, or iPhone 16 series**
+- **iOS 26 or later**
+- **iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model**
 - **Apple Intelligence** enabled on your device
-- A compatible iPhone that supports Apple Intelligence
 
 Check your iOS version in Settings > General > About. Enable Apple Intelligence in Settings > Apple Intelligence.
 

@@ -48,7 +48,7 @@ We are committed to ensuring NutriComposer is accessible to all users. If you ex
 - This unlocks access to Foundation Foods database
 
 ### Using the AI Assistant
-- **Requirements:** iPhone 15 Pro or later with iOS 18.1+ and Apple Intelligence enabled
+- **Requirements:** iPhone 15 Pro or later with iOS 26+ and Apple Intelligence enabled
 - Tap the AI Assistant button on the Dashboard
 - **Chat mode:** Type your questions or commands
 - **Voice mode:** Tap the microphone to speak
@@ -96,8 +96,8 @@ We are committed to ensuring NutriComposer is accessible to all users. If you ex
 
 ### AI Assistant Not Responding?
 - **Check Requirements:** 
-  - iOS 18.1 or later installed
-  - iPhone 15 Pro, iPhone 15 Pro Max, or iPhone 16 series
+  - iOS 26 or later installed
+  - iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model
   - Apple Intelligence enabled on your device
   - Check Settings > Apple Intelligence
 - **Restart:** Try closing and reopening the app
