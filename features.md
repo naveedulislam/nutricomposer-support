@@ -4,7 +4,7 @@ title: Features
 permalink: /features/
 ---
 
-NutriComposer is packed with powerful features to help you track your nutrition comprehensively and conveniently.
+NutriComposer has several useful features to help you track your nutrition conveniently.
 
 <div style="text-align: center; margin: 2rem 0;">
   <img src="{{ site.baseurl }}/assets/images/dashboard.png" alt="NutriComposer Dashboard" style="max-width: 300px; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
@@ -73,7 +73,7 @@ Comprehensive tracking including:
 
 ### Custom Food Creation
 - Create your own foods with custom nutrient data
-- In the Food Search view, go to the "Custom" tab, then tap the "+" button to create a new custom food
+- In the Food Search view, go to the "Custom" tab, then tap the "Create" button to create a new custom food
 - Use AI Assistant with voice: say "Create [food name] with [nutrients]"
 - Copy any existing food and edit it as custom (Copy to Custom feature)
 - Perfect for recipes, homemade meals, or regional foods

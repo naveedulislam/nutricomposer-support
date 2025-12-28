@@ -12,17 +12,9 @@ If you're experiencing issues or have questions about NutriComposer, we're here 
 
 ---
 
-## My Commitment to You
+## Support & Accessibility
 
-> "I will try my best to respond to any issues as soon as possible and fix them promptly. This app was created to help people improve their health, and I'm committed to making it work well for everyone."
-
----
-
-## Accessibility Statement
-
-> "I have tried my best using in-depth testing to ensure this app is accessible, but it may not be perfect. If you encounter any accessibility issues, please contact me and I will work to address them."
-
-We are committed to ensuring NutriComposer is accessible to all users. If you experience any accessibility challenges, please reach out so we can improve.
+I aim to respond to issues promptly and keep improving the app. If you encounter any bugs or accessibility challenges, please reach out and I'll work to address them.
 
 ---
 
@@ -131,7 +123,7 @@ Have ideas for new features or improvements? We'd love to hear from you! Send yo
 
 ## Report a Bug
 
-Found a bug? Please email us with:
+Found a bug? Please email **naveedulislam@hotmail.com** with:
 - Description of the issue
 - Steps to reproduce
 - Your iOS version

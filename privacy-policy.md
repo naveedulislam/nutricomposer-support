@@ -47,7 +47,7 @@ NutriComposer uses the following third-party services for food database searches
 - Optional - requires you to obtain a free API key
 
 ### Open Food Facts API
-- Only barcode numbers are sent when you scan products
+- Food name searches and barcode numbers are sent to retrieve nutritional information
 - No personal data is transmitted
 - Used to retrieve nutritional information for packaged foods
 
@@ -95,7 +95,7 @@ You have complete control over your data:
 
 ## Children's Privacy
 
-NutriComposer does not knowingly collect any information from children under 13. The app does not require account creation or collect personal data.
+NutriComposer does not collect any personal information from any user, regardless of age. The app does not require account creation, has no user registration, and stores all data locally on your device only.
 
 ## Changes to This Privacy Policy
 

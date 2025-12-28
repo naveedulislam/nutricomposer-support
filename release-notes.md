@@ -8,46 +8,70 @@ Stay updated with the latest improvements, features, and fixes in NutriComposer.
 
 ---
 
+## Version 2.0.34 (December 27, 2025)
+### AI Assistant Fixes and UX Improvements
+- Fixed AI intent classification: "What should I eat for dinner?" now correctly suggests foods instead of adding them
+- Fixed AI protein reporting: "How much protein have I eaten?" now shows accurate gram values
+- Added key nutrient values (protein, carbs, fat, etc.) to AI context for accurate intake queries
+- Improved question detection: Questions with "?" or question words are now prioritized before action keywords
+- Removed ambiguous "for breakfast/lunch/dinner" from add-food triggers (could be questions or logs)
+- My Targets: "Save Profile & Apply Targets" button now provides visual and haptic feedback
+- Save button shows checkmark icon and "Targets Saved!" confirmation for 2 seconds
+
+---
+
+## Version 2.0.33 (December 26, 2025)
+### Dark Theme and UI Polish
+- Implemented consistent dark theme across Add Food and Compose views
+- Added custom colors: appInputField (#404040), appBadge (#606060), appTabInactive (#505050)
+- Updated food source badges (FNDDS, USDA, OFF) with light gray background for visibility
+- Changed active tab button color to orange with inactive tabs using dark gray
+- Centered all buttons in Settings sub-views (My Targets, USDA API Key, Data Management)
+- Moved "Clear API Key" to its own section for better visual separation
+- All list rows now use consistent dark background
+
+---
+
 ## Version 2.0.31 (December 25, 2025)
 ### Unit Tests and UI Fixes
-- Added 40+ comprehensive unit tests to improve code quality and reliability
-- Fixed button styling and icon display issues across the app
-- Resolved UI inconsistencies in various views
-- Enhanced test coverage for core features
+- Added unit test target with 40+ test cases covering core components
+- Tests cover: Balancer, USDAService, OpenFoodFacts parsing, DataStore, Nutrient models
+- Fixed: Delete Entry button styling (gray background, black text/icon)
+- Fixed: Favorites star icon now uses primary color (black) instead of yellow
+- Fixed: Create Food nutrition tabs now use grid layout instead of horizontal scroll
+- Fixed: All nutrition category tabs now use consistent blue color
 
 ---
 
 ## Version 2.0.30 (December 25, 2025)
 ### Code Refactoring
-- Major code refactoring for improved maintainability
-- Restructured app architecture for better performance
-- Improved code documentation and organization
-- Enhanced code quality and reduced technical debt
+- Extracted AddFoodSheet component with nutrient progress display
+- Extracted CreateFoodSheet, EditFoodAsCustomSheet, EditCustomFoodSheet, EditAndAddToFavoritesSheet to CustomFoodSheets.swift
+- FoodSearchView reduced from ~1950 to 740 lines for better maintainability
 
 ---
 
 ## Version 2.0.29 (December 25, 2025)
 ### Swift 6 Compatibility and Refactoring
-- Updated codebase for Swift 6 compatibility
-- Performance improvements from Swift 6 features
-- Enhanced type safety and concurrency handling
-- Modernized Swift syntax throughout the app
+- Fixed Swift 6 concurrency errors by adding Sendable conformance to data types
+- Extracted FoodRow component to separate file for better code organization
+- Moved AppSettings and WaterData structs to file scope for Swift 6 compatibility
 
 ---
 
 ## Version 2.0.28 (December 25, 2025)
 ### Error Handling and Bug Fixes
-- Improved error handling throughout the app
-- Better user-facing error messages
-- Enhanced debugging capabilities
-- More graceful failure recovery
+- Added proper error logging for all data persistence operations
+- All file writes now use atomic operations for data safety
+- Fixed: Dashboard now loads data correctly on app startup (was requiring pull-to-refresh)
 
 ---
 
 ## Version 2.0.27 (December 25, 2025)
 ### Performance Optimizations
-- Significant performance improvements across the app
-- Faster food search and loading times
+- Background thread I/O: All JSON file loading now happens on background threads in parallel
+- Reduced view dependency scope: FocusNutrientsCardView and WaterTrackingSectionView now receive specific data instead of full DataStore
+- Renamed caloriesPieChartCard to caloriesSummaryCard for accuracy
 - Optimized dashboard rendering
 - Reduced memory usage
 
