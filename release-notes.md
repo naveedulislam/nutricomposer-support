@@ -8,6 +8,13 @@ Stay updated with the latest improvements, features, and fixes in NutriComposer.
 
 ---
 
+## Version 2.0.35 (December 27, 2025)
+### App Store Release
+- Initial App Store submission
+- Added required privacy usage descriptions for HealthKit and Microphone access
+- Disabled default API key for public release
+- Minor bug fixes and performance improvements
+
 ## Version 2.0.34 (December 27, 2025)
 ### AI Assistant Fixes and UX Improvements
 - Fixed AI intent classification: "What should I eat for dinner?" now correctly suggests foods instead of adding them
