@@ -47,7 +47,7 @@ Access USDA FoodData Central, Open Food Facts, and FNDDS to find accurate nutrit
 
 ## Quick Links
 
-- [Download on the App Store](#) *(coming soon)*
+- [Download on the App Store](https://apps.apple.com/us/app/nutricomposer/id6757113624)
 - [Features]({{ site.baseurl }}/features/) - Explore all features
 - [Support]({{ site.baseurl }}/support/) - Get help and contact
 - [Privacy Policy]({{ site.baseurl }}/privacy-policy/) - Learn how we protect your data
